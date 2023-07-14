@@ -1,0 +1,30 @@
+.subscribes{
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    gap: 1rem;
+
+    
+    background-color: #f4f4f8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 1rem;
+   
+}
+.subscribes h1{
+    width: 100%;
+    text-align: center;
+}
+.subscribes p{
+    width: 100%;
+    text-align: center;
+}
+.subscribebutton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
